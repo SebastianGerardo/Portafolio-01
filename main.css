@@ -303,6 +303,8 @@ body {
   color: #767676;
 }
 
+
+
 .hr {
   width: 80%;
 }
@@ -563,10 +565,14 @@ body {
     align-items: center;
   }
 
-  .about-me__presentation p {
+  .about-me__dscrp p {
     text-align: center;
   }
   
+  .about-me__presentation h3 {
+    text-align: center;
+  }
+
   .about-me__img-ctn {
     width: 20rem;
     height: 20rem;
